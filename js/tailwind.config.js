@@ -26,6 +26,9 @@ tailwind.config  = {
             },
             lineHeight: {
                 '4.5': '1.125rem',
+            },
+            maxWidth: {
+                '2lg': '1200px'
             }
         }
 
