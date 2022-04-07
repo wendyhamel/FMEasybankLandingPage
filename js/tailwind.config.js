@@ -16,7 +16,9 @@ tailwind.config  = {
             spacing: {
                 '4.5': '1.125rem',
                 '22': '5.5rem',
-                '30': '7.5rem'
+                '30': '7.5rem',
+                '45': '11.375rem',
+                '47': '11.75rem'
             },
             fontSize: {
                 'xxs': '0.65rem',
